@@ -41,4 +41,6 @@ Para validar la información de este reporte, se consultaron las siguientes fuen
 ### captura 4. Entorno de Edición (IDE)
 <img width="1889" height="870" alt="Screenshot 2026-01-29 091536" src="https://github.com/user-attachments/assets/1e0270a3-8272-4c60-9152-b2c4384adbf9" />
 
+### captura 5. Diseño UI/UX
+<img width="1903" height="989" alt="image" src="https://github.com/user-attachments/assets/7796e079-2831-4bef-9157-c3a2fc99cd34" />
 
