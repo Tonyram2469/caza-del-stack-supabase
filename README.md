@@ -21,6 +21,13 @@
 * **Herramienta Moderna Detectada:** **Tailwind CSS**.
 * **Justificación:** Utilizan Tailwind para el diseño de su interfaz porque permite iterar estilos rápidamente sin salir del archivo de código, lo que acelera el desarrollo de su dashboard.
 
+## 6. Fuentes de Investigación
+Para validar la información de este reporte, se consultaron las siguientes fuentes oficiales y herramientas de análisis técnico:
+
+* **Repositorio Oficial de Supabase:** [github.com/supabase/supabase](https://github.com/supabase/supabase) - Consulta de lenguajes base (TypeScript) y herramientas de configuración (ESLint/Prettier).
+* **StackShare - Perfil de Supabase:** [stackshare.io/supabase/supabase](https://stackshare.io/supabase/supabase) - Identificación del stack de frontend (React, Next.js) y diseño (Figma).
+* **Wappalyzer:** Análisis en tiempo real de la arquitectura web de [supabase.com](https://supabase.com).
+* **Supabase Engineering Blog:** [supabase.com/blog](https://supabase.com/blog) - Revisión de artículos técnicos sobre su infraestructura y uso de Next.js.
 ## Evidencias
 ### Captura 1: Stack tecnológico en StackShare
 <img width="1299" height="872" alt="image" src="https://github.com/user-attachments/assets/8f3274b4-7309-4126-b294-8b908a2c05c8" />
