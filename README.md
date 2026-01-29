@@ -37,3 +37,8 @@ Para validar la información de este reporte, se consultaron las siguientes fuen
 
 ### Captura 3: Análisis de tecnologías con Wappalyzer
 <img width="498" height="545" alt="image" src="https://github.com/user-attachments/assets/68bfa02e-153b-41bf-91e7-ef7a9d6565a9" />
+
+### captura 4. Entorno de Edición (IDE)
+<img width="1889" height="870" alt="Screenshot 2026-01-29 091536" src="https://github.com/user-attachments/assets/1e0270a3-8272-4c60-9152-b2c4384adbf9" />
+
+
