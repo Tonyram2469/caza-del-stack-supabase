@@ -1,3 +1,6 @@
+
+<img width="1350" height="1296" alt="_C__Users_anson_Downloads_index html (1)" src="https://github.com/user-attachments/assets/1c7b5139-d54d-465b-8037-6560db99a642" />
+
 # Investigación de Stack Tecnológico: Supabase
 
 ## 1. Entorno de Edición (IDE)
@@ -43,4 +46,3 @@ Para validar la información de este reporte, se consultaron las siguientes fuen
 
 ### captura 5. Diseño UI/UX
 <img width="1903" height="989" alt="image" src="https://github.com/user-attachments/assets/7796e079-2831-4bef-9157-c3a2fc99cd34" />
-
